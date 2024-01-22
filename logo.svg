@@ -1,0 +1,13 @@
+<svg width="300" height="200" xmlns="http://www.w3.org/2000/svg" style="background-color: white;">
+                            <circle cx="150" cy="100" r="70" fill="blue">
+                    <animateTransform attributeName="transform" 
+                         type="scale" 
+                         values="1;1.33;1" 
+                         begin="0s" 
+                         dur="1s" 
+                         repeatCount="indefinite"/>
+                </circle>
+                            <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="green" font-size="35px">
+                                JAM
+                            </text>
+                        </svg>
