@@ -70,7 +70,6 @@ This project is licensed under the [MIT](https://opensource.org/licenses/MIT) li
 
 For any questions, please don't hesitate to contact me at:
 - GitHub: [JohnM89](https://github.com/JohnM89)
-- Email: mjammer2@gmail.com
 
 </details>
 
